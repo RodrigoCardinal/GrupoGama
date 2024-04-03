@@ -1,1 +1,2 @@
 # GrupoGama
+Rodrigo Cardinal 
